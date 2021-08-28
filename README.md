@@ -7,7 +7,7 @@ Then there are few changes that you should make to the file in order to execute 
 1) To open files and applications on my device I have given a specific location or path that resembles my machine. Please change the path accordingly. That suits your machine.
 2) In order to use the voice command to send emails, please change the email address of yours and the target one.
 3) In order to send emails to multiple people, use dictionaries. Set the key-value pairs for their names and email ids.
-
+4) (Optional) You could use voice pack of your choice. The standard '0' represents male and '1' represents female voices respectively.
 
 Tips:
 
