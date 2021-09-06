@@ -4,6 +4,13 @@ Hello!
 Are you are downloading this project and trying it to execute on your Machine?
 Then there are few changes that you should make to the file in order to execute on your machine.
 
+Packages that are to be installed
+-> pip install pyttsx3
+-> pip install wikipedia
+-> pip install speechRecognition
+
+-> If it asks for pyaudio, then install pyaudio:  -> pip install pyaudio
+
 1) To open files and applications on my device I have given a specific location or path that resembles my machine. Please change the path accordingly. That suits your machine.
 2) In order to use the voice command to send emails, please change the email address of yours and the target one.
 3) In order to send emails to multiple people, use dictionaries. Set the key-value pairs for their names and email ids.
